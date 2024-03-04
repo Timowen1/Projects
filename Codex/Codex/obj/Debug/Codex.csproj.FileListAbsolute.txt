@@ -1,0 +1,10 @@
+E:\Codex\Codex\bin\Debug\Codex.exe.config
+E:\Codex\Codex\bin\Debug\Codex.exe
+E:\Codex\Codex\bin\Debug\Codex.pdb
+E:\Codex\Codex\obj\Debug\Codex.csproj.AssemblyReference.cache
+E:\Codex\Codex\obj\Debug\Codex.Form1.resources
+E:\Codex\Codex\obj\Debug\Codex.Properties.Resources.resources
+E:\Codex\Codex\obj\Debug\Codex.csproj.GenerateResource.cache
+E:\Codex\Codex\obj\Debug\Codex.csproj.CoreCompileInputs.cache
+E:\Codex\Codex\obj\Debug\Codex.exe
+E:\Codex\Codex\obj\Debug\Codex.pdb
